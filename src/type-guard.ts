@@ -47,7 +47,7 @@ class Animal {
     this.species = species;
   }
 
-  public makeSound() {
+  makeSound() {
     console.log(`I am making sound`);
   }
 }
