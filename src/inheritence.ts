@@ -10,7 +10,7 @@ class Person {
   }
 
   makeSleep(hours: number): string {
-    return `This ${this.name} will sleep for ${hours}`;
+    return `This ${this.name} will sleep for ${hours} hours`;
   }
 }
 
